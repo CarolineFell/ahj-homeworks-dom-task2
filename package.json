@@ -1,5 +1,5 @@
 {
-  "name": "ahj-homeworks-dom",
+  "name": "ahj-homeworks-dom-task3",
   "version": "1.0.0",
   "description": "dom",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CarolineFell/ahj-homeworks-dom.git"
+    "url": "git+https://github.com/CarolineFell/ahj-homeworks-dom-task3.git"
   },
   "keywords": [
     "dom"
@@ -19,9 +19,9 @@
   "author": "CarolineFell",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CarolineFell/ahj-homeworks-dom/issues"
+    "url": "https://github.com/CarolineFell/ahj-homeworks-dom-task3/issues"
   },
-  "homepage": "https://github.com/CarolineFell/ahj-homeworks-dom#readme",
+  "homepage": "https://github.com/CarolineFell/ahj-homeworks-dom-task3#readme",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.0",

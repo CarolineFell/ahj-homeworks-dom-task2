@@ -43,11 +43,16 @@ module.exports = {
         ],
       },
       {
-        test: /\.(png|jpe?g|gif|ico)$/i,
-        loader: 'file-loader',
-        options: {
-          name: '[name].[ext]',
-        },
+        test: /\.(png)$/,
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              esModule: false,
+              name: '[name].[ext]',
+            },
+          },
+        ],
       },
     ],
   },
